@@ -6,6 +6,8 @@ Better Ethereum contract abstraction, for Node and the browser.
 ### :warning: This repo is deprecated :warning:
 **Truffle has moved all modules to a monorepo at [trufflesuite/truffle](https://github.com/trufflesuite/truffle). See you over there!**
 
+(This packages new home is at [trufflesuite/truffle/packages/truffle-contract](https://github.com/trufflesuite/truffle/tree/next/packages/truffle-contract))
+
 -----------------------
 
 ### Install
